@@ -1,6 +1,4 @@
-### Hi there 👋
-<br>
-author - haritha
+### Hi there 👋 author - haritha
 
 <!--
 **198r1a05m3/198r1a05m3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
